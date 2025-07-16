@@ -60,7 +60,9 @@ body{
 .section{
     margin: 40px 0;
 }
-
+.divmargin{
+    margin-bottom: 14px;
+}
 h3{
     margin-bottom: 10px;
 }
@@ -76,14 +78,37 @@ h3{
     text-align: center;
     line-height: 20px;
 }
+.xmark{
+    border: 0.5px solid red;
+    color: red;
+}
 .roundedbox{
     color: white;
     background: #45adf2;
     height: 2em;
     width: 6em;
     font-size: 12px;
-    border-radius: 12px;
+    border-radius: 10px;
     line-height: 2em;
     text-align: center;
     display: inline-block;
+}
+
+/*colori roundedbox*/
+
+.goals{
+    background: #9874df;
+}
+.recruiting{
+    background: #65bfa9;
+}
+.mobile{
+    background: #f09f2d;
+    width: 5em;
+}
+.website{
+   background: #d564a4; 
+}
+.sales{
+    background: #adc723;
 }
