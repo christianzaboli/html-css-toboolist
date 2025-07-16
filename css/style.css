@@ -82,6 +82,8 @@ h3{
     border: 0.5px solid red;
     color: red;
 }
+/*roundedbox con "editorial" come reference*/
+
 .roundedbox{
     color: white;
     background: #45adf2;
@@ -108,7 +110,9 @@ h3{
 }
 .website{
    background: #d564a4; 
+   width: 5em;
 }
 .sales{
     background: #adc723;
+    width: 4.5em;
 }
