@@ -34,6 +34,13 @@ body{
     margin: 65px auto;
     
 }
+#separatore{
+    margin-top: 15px;
+    background-color: #f6f8fa;
+    height: 2px;
+    width: 100%;
+    padding: 0;
+}
 
 /*regole bottoni*/
 
@@ -82,6 +89,7 @@ h3{
     border: 0.5px solid red;
     color: red;
 }
+
 /*roundedbox con "editorial" come reference*/
 
 .roundedbox{
